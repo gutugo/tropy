@@ -37,8 +37,8 @@
 
 ## Установка
 
-Свежий файл — на вкладке [Releases](https://github.com/gutugo/tropy/releases/latest).
-Тот же файл лежит на [tropy.app](https://tropy.app).
+Свежий файл — на вкладке [Releases](https://github.com/gutugo/tropy/releases),
+самый верхний. Тот же файл лежит на [tropy.app](https://tropy.app).
 
 Нужен **Android 7.0** или новее. При установке Android спросит разрешение
 ставить приложения не из магазина — это его обычный вопрос к любому такому
