@@ -6,9 +6,9 @@
 
 Сайт — [tropy.app](https://tropy.app)
 
-> ⚠️ **Сейчас это бета-версия.** Приложение подано в RuStore и ждёт
-> модерации; сборки здесь — предрелизные. Записанный поход может пропасть при
-> обновлении: не берите эту версию как единственную запись важного похода.
+> ⚠️ **Сейчас это бета-версия.** Приложение есть в [RuStore](https://www.rustore.ru/catalog/app/app.tropy);
+> здесь — те же сборки файлом и история версий. Записанный поход может пропасть
+> при обновлении: не берите эту версию как единственную запись важного похода.
 > Подробнее — в разделе «Что нужно знать до установки».
 
 ## Что делает приложение
@@ -44,16 +44,14 @@
 
 ## Установка
 
-Свежий файл — на вкладке [Releases](https://github.com/gutugo/tropy/releases),
-самый верхний. Тот же файл лежит на [tropy.app](https://tropy.app).
+Проще всего — из [RuStore](https://www.rustore.ru/catalog/app/app.tropy): установка в одно нажатие, обновления
+приходят сами.
 
-Нужен **Android 7.0** или новее. При установке Android спросит разрешение
-ставить приложения не из магазина — это его обычный вопрос к любому такому
-файлу.
-
-Обновления пока не приходят сами: пока приложения нет в RuStore, новую сборку
-нужно ставить так же, файлом, поверх старой. Записанное при этом остаётся
-на месте — все сборки подписаны одним ключом.
+Или файлом: свежий — на вкладке [Releases](https://github.com/gutugo/tropy/releases),
+самый верхний; тот же файл лежит на [tropy.app](https://tropy.app). Нужен
+**Android 7.0** или новее. Android спросит разрешение ставить приложения
+не из магазина — это его обычный вопрос. Новые версии ставятся так же, файлом
+поверх старой: все сборки подписаны одним ключом.
 
 ## Что нужно знать до установки
 
@@ -92,6 +90,7 @@ GPS track recording, imported GPX/KML tracks you can follow, and
 trail-condition reports left by people who walked there. Android, in Russian.
 
 This repository publishes the installable builds. The source code is private.
+The app is also available in [RuStore](https://www.rustore.ru/catalog/app/app.tropy).
 
 ⚠️ Current builds are **pre-release beta builds**: recorded hikes may be lost
 on update, and the app can collect raw GPS traces for debugging — only if you
